@@ -1,0 +1,2 @@
+# Diplom
+studying muscle model 
